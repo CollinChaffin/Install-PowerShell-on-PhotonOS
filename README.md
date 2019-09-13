@@ -74,7 +74,7 @@ To verify, execute PowerShell (verify correct version):
 
 ```
 root@vdocker [ ~ ]# pwsh
-PowerShell 6.2.2
+PowerShell 6.2.3
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 https://aka.ms/pscore6-docs
@@ -101,7 +101,7 @@ Test a simple PackageManagement/PowerShellGet search of the PSGallery:
 
 ```
 root@vdocker [ /root ]# pwsh
-PowerShell 6.2.2
+PowerShell 6.2.3
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 https://aka.ms/pscore6-docs
@@ -174,6 +174,7 @@ Changelog:
 | Version | Release Date    |    Description                           |
 |---------|-----------------|------------------------------------------|
 | v1.0.0.1 | 09-12-2019	| Initial release |
+| v1.0.0.2 | 09-13-2019	| Updated for PowerShell v6.23 release |
 
 
 
